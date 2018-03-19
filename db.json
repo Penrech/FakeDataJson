@@ -1,5 +1,6 @@
 {
     "Img": "Imagen1",
+    "VideoURL":"http://citmalumnes.upc.es/~pauel/VideosPruebaTFG/VideoMuestra.mp4",
     "Titulo": "Título de audiovisual de prueba",
     "PoC": "Mediapro",
     "IntroDesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum urna est. Sed sit amet elementum dui, lacinia facilisis dui. Phasellus tempus enim felis, id varius nisi commodo vel. Sed nunc lectus, venenatis vel dignissim quis, sagittis a dui. Ut sollicitudin diam erat, ut faucibus mauris vestibulum in. Mauris id tortor eget erat tempus ultricies.\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Ut dictum urna est. Sed sit amet elementum dui, lacinia facilisis dui. Phasellus tempus enim felis, id varius nisi commodo vel. Sed nunc lectus, venenatis vel dignissim quis, sagittis a dui. Ut sollicitudin diam erat, ut faucibus mauris vestibulum in. Mauris id tortor eget erat tempus ultricies.",
