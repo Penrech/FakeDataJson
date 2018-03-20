@@ -1,7 +1,7 @@
 {
 
 "id":["https://raw.githubusercontent.com/Penrech/FakeDataJson/master/db.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/db2.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/db3.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/db4.json"],
-"Title":["Título de audiovisual de prueba","Título de audiovisual de prueba2","Título de audiovisual de prueba3","Título de audiovisual de prueba4,],
+"Title":["Título de audiovisual de prueba","Título de audiovisual de prueba2","Título de audiovisual de prueba3","Título de audiovisual de prueba4"],
 "Rute":["Ruta 1", "Ruta 2 Ruta 3 Ruta 4", "Ruta 4", "Ruta 2"],
 "img":["http://citmalumnes.upc.es/~pauel/ImagenesPruebaTFG/Imagen1.jpg","http://citmalumnes.upc.es/~pauel/ImagenesPruebaTFG/Imagen2.jpg","http://citmalumnes.upc.es/~pauel/ImagenesPruebaTFG/Imagen3.jpg","http://citmalumnes.upc.es/~pauel/ImagenesPruebaTFG/Imagen4.jpg"]
 
