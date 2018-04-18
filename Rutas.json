@@ -3,7 +3,7 @@
 
 "id":["https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json"],
 "Title":["Terrassa modernista","Cine","Publicidad","Cine y publicidad joven","Ruta 5","Ruta 6","Ruta 7","Ruta 8","Ruta 9"],
-"Color":[{"r":"178","g":"18","b":"18"},"255,252,25","255,0,0","20,133,204","9,113,178","0,255,72","64,255,64","153,88,61","204,74,20"],
+"Color":["178,18,18","255,252,25","255,0,0","20,133,204","9,113,178","0,255,72","64,255,64","153,88,61","204,74,20"],
 
 
 }
