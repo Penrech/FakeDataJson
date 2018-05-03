@@ -1,9 +1,9 @@
 
 {
 
-"id":["https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json","https://raw.githubusercontent.com/Penrech/FakeDataJson/master/ruta1.json"],
-"Title":["Terrassa modernista","Cine","Publicidad","Cine y publicidad joven","Nombre de ruta bastante bastante largo","Ruta 6","Ruta 7","Ruta 8","Ruta 9"],
-"Color":["#B21212","#FFFC19","#FF0000","#1485CC","#0971B2","#00FF48","#40FF40","#99583D","#CC4A14"]
+"id":["M1","M2","M3","M4"],
+"Title":["ESCAC","CITM","Cecot","Parc Audiovisual"],
+"Location":["41.561199, 2.023013","41.562282, 2.019629","41.563741, 2.014079","41.5940014,2.0047197"]
 
 
 }
